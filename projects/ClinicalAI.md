@@ -26,7 +26,8 @@ In particular, clinicians are beginning to use LLMs to identify early signs of d
 ## Purpose of this Research Project
 This project explores the integration of a Retrieval- Augmented Generation (RAG) pipeline using LLMs to detect treatment gaps in ASCVD care by comparing patient data with up-to-date clinical guidelines.
 
-### Research question: Can LLM-based RAG systems accurately identify treatment gaps by comparing patient data against current ASCVD guidelines?
+#### Research question: 
+Can LLM-based RAG systems accurately identify treatment gaps by comparing patient data against current ASCVD guidelines?
 
 Here is a few lines of code that illustrates how we prompted the large language model:
 ```python
