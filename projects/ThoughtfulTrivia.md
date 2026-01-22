@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-image: img/trivia.jpeg
+image: img/istockphoto-1469754711-612x612.jpg
+
 title: "Thoughtful Trivia"
 date: 2025-05-08
 published: true
