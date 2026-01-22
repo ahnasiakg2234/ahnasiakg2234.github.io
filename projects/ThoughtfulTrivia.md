@@ -22,7 +22,7 @@ Then, I created a function that would allow the user to enter one of the two cat
 ## End Result 
 In the main function, I used a score tracker to keep track of user progress as well as welcome the user to the game. This is where I initiate the game for the user which allows the user to type their answer and receive a "Correct" if correct and an "Incorrect" if their answer is not correct. Once the user answers all 10 questions, their score is presented to them as "You got ? out of 10 questions correct. Thanks for playing!". The user can exit or play again. 
 
-## WHat did I learn? 
+## What did I learn? 
 From this project, I learned how to handle different types of data. I learned that it does in fact matter which information is stored where because I need to keep track of it in an organized way. I learned that it's not enough to be correct, I also have to be meaningful and efficient when programming. 
 
 Here is some code that illustrates how I wrote the score keeper function:
