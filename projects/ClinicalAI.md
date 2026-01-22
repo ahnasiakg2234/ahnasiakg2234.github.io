@@ -12,6 +12,7 @@ labels:
   - ChromaDb
 summary: "This Clinical AI Assistant is an automated system for analyzing ASCVD treatment gaps using a RAG pipeline."
 ---
+<img src = "img/ascvd.png">
 Atherosclerotic Cardiovascular Disease is an umbrella term for many conditions that stem from a buildup and hardening of plaque in your arteries.
 ASCVD encompasses cardiac events from heart attacks to strokes and/or aneurysms. It is currently the leading cause of death worldwide due to a lack of individual knowledge and preventative measures.
 Accurate and timely diagnosis and therefore treatment can significantly impact patient outcomes and healthcare efficiency.
