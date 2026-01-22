@@ -104,16 +104,16 @@
 
   "awards": [
     {
-      "title": "NJ-STARS I/II Scholarship",
-      "date": "2022-Present",
+      "title": "NJ-STARS I Scholarship",
+      "date": "2022",
       "awarder": "State of New Jersey",
       "summary": "Awarded to students graduating in the top 15% of their class while completing a rigorous course load."
     },
     {
-      "title": "NJ-STARS Recipient",
-      "date": "2022",
-      "awarder": "Catherine",
-      "summary": "Graduated in the top 8% of high school class with a 4.4 GPA."
+      "title": "NJ-STARS II Scholarship",
+      "date": "2024",
+      "awarder": "State of New Jersey",
+      "summary": "Awarded to students who continue to demonstrate the ability to maintain at least a 3.5 GPA."
     }
   ],
 
