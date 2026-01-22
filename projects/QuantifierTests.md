@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/math.png
+image: img/math-diagrams-and-tools-math-class-concept-illustration-vector.jpg
 title: "Universal/Existential Quantifier Testing and Binary Conversion"
 date: 2025-04-15
 published: true
