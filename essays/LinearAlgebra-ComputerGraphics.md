@@ -8,7 +8,7 @@ published: true
 labels:
   - Linear Algebra
 ---
-
+![Computers](img/computers.jpg)
 # The relationship between Linear Algebra and Computer Graphics
 
 ## Mindless Actions
