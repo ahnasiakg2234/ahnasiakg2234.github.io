@@ -9,7 +9,7 @@ labels:
   - Fun Technology
   - Python 
   - Visual Studio Code
-summary: "I developed a basic trivia game consisting of 50 possible questions with a range of only two topics. It is intended to assess my comprehension of handling many different cases in python in an interactive way."
+summary: "I developed a basic trivia game consisting of 50 possible questions with a range of only two topics. It is intended to be fun, thought-provoking, and interative."
 ---
 Thoughtful Trivia is a very basic implementation of python's functions, iterations, dictionaries, file handling, and exceptions. The main goal of creating this project was to combine fun and interest to the technicalities of python. What is the most efficient way to handle errors, store questions, generate random answers from the provided lists? Well, this project aims to answer that within the coding portion. 
 
