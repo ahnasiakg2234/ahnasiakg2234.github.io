@@ -9,12 +9,17 @@ labels:
   - Mathematical Technology
   - Python 
   - Visual Studio Code
-summary: "I developed a basic program in python that uses a closed formula to create a sequence, determine truth values, and convert decimal values to binary. This is a useful program because it intends shortens the amount of math by hand."
+summary: "I developed a basic program in python that uses a closed formula to create a sequence, determine truth values, and convert decimal values to binary. This is a useful program because it shortens the amount of math by hand."
 ---
+## What does this program do and why is it important?
 This program takes a closed formula with "n" elements which is stored in a set. The program also takes a value "m" in which if the domain of "X" is the first "n" elements of a sequence and "m" is another value, both of the quantifiers must be defined. 
 
-This program also sums the first "n" elements and converts this number into a bianry value. Without using built in functions to find these values, I used the iterative tools and condiitonal statements. 
+This program also sums the first "n" elements and converts this number into a binary value. Without using built in functions to find these values, I used the iterative tools and conditional statements. 
+
+## Guidelines
+This was an individual project for a discrete mathematics course I took last spring. I thoroughly enjoyed the combination of mathematical analysis and predicate logic involved. 
 Here is some code that illustrates the binary conversion: 
+
 ```python
 total = sum
 binary_total= ''
