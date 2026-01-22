@@ -11,7 +11,7 @@
     "profiles": [
       { "network": "github", "username": "ahnasiakg2234", "url": "http://github.com/ahnasiakg2234" },
       { "network": "linkedin", "username": "ahnasiakg2234", "url": "http://linkedin.com/in/ahnasiakg2234" },
-      { "network": "Gmail", "username": "ahnasia04", "url": "ahnasia04@gmail.com" }
+      { "network": "Gmail", "username": "ahnasia04", "url": "mailto:ahnasia04@gmail.com" }
     ]
   },
   "interests": [
@@ -83,12 +83,12 @@
     {
       "title": "NJ-Stars I/II Scholarship",
       "date": "2022-Present",
-      "awarder": "New Jersey",
+      "awarder": " State of New Jersey",
       "summary": "Scholarships awarded to students who graduate in the top 15% of their class whilst having completed a vigorous courseload."
       "title": "NJ- Stars Recepient",
       "date": "2022",
       "awarder": "Catherine",
-      "summary": "Graduated in the top 8% of my highschool class after achieving a 4.4 GPA"
+      "summary": "Graduated in the top 8% of my highschool class with a 4.4 GPA"
     }
   ],
   "references": [
