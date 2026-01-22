@@ -23,16 +23,16 @@ In the main function, I used a score tracker to keep track of user progress as w
 Here is some code that illustrates how I wrote the score keeper function:
 ```python
 def run_quiz(questions_with_answers):
-score = 0
-for i, (question, correct_answer) in enumerate(questions_with_answers, start=1):
-print(f"\nQuestion {i}: {question}")
-user_answer = input("Your answer: ").strip().lower()
-if user_answer.lower() == correct_answer.lower():
-print("Correct!")
-score += 1
-else:
-print(f"Incorrect. The correct answer was: {correct_answer}")
-print(f"\nYou got {score} out of {len(questions_with_answers)} questions
-correct.")
-print("Thanks for playing!")
+  score = 0
+  for i, (question, correct_answer) in enumerate(questions_with_answers, start=1):
+    print(f"\nQuestion {i}: {question}")
+    user_answer = input("Your answer: ").strip().lower()
+    if user_answer.lower() == correct_answer.lower():
+        print("Correct!")
+        score += 1
+    else:
+        print(f"Incorrect. The correct answer was: {correct_answer}")
+        print(f"\nYou got {score} out of {len(questions_with_answers)} questions correct.")
+
+  print("Thanks for playing!")
 ```
