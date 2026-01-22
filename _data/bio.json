@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "08865", "city": "Phillipsburg", "countryCode": "USA", "region": "New Jersey" },
     "profiles": [
       { "network": "github", "username": "ahnasiakg2234", "url": "http://github.com/ahnasiakg2234" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/ahnasiakg2234" },
+      { "network": "linkedin", "username": "ahnasiakg2234", "url": "http://linkedin.com/in/ahnasiakg2234" },
       { "network": "Gmail", "username": "ahnasia04", "url": "ahnasia04@gmail.com" }
     ]
   },
@@ -44,69 +44,51 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Montclair State University",
+      "position": "Undergraduate Researcher",
+      "website": " https://github.com/ahnasiakg2234/ASCVD-Clinical-RAG-Assistant",
+      "startDate": "2025-05-27",
+      "endDate": "2025-08-01",
+      "summary": "Conducted ML research for a clinical AI assistant",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Developed an automated system for analyzing ASCVD treatment gaps using a RAG pipeline.", 
+        "Analyzed performance metrics of the system based on accuracy, efficiency gains, and clinical utility."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Bareburger",
+      "position": "Shift Lead",
+      "website": "",
+      "startDate": "2020-08-01",
+      "endDate": "2025-05-27",
+      "summary": "Responsible for overseeing all customer interactions as well as completion of daily operational checklist",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Cultivated strong multitasking, adaptability, and communication skills in a fast-paced setting.", 
+        "Frequently selected for leadership responsibilities, ensuring high-quality service and team cohesion."
       ]
     },
     {
-      "organization": "",
+      "company": "Starbucks",
+      "position": "Barista",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2022-07-04",
+      "endDate": "2024-05-24",
+      "summary": "Responsible for completion of daily operational tasks as well as trainings."
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
+        "Trained and mentored new hires, improving team efficiency and customer satisfaction scores by 30%.",
+        "Oversaw inventory and shift operations, ensuring smooth workflow in a high-volume environment."
+      
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "NJ-Stars I/II Scholarship",
+      "date": "2022-Present",
+      "awarder": "New Jersey",
+      "summary": "Scholarships awarded to students who graduate in the top 15% of their class whilst having completed a vigorous courseload."
+      "title": "NJ- Stars Recepient",
+      "date": "2022",
+      "awarder": "Catherine",
+      "summary": "Graduated in the top 8% of my highschool class after achieving a 4.4 GPA"
     }
   ],
   "references": [
