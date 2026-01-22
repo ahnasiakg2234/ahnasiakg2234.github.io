@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/trivia.jpeg
 title: "Thoughtful Trivia"
 date: 2025-05-08
 published: true
