@@ -4,7 +4,7 @@ type: essay
 title: "Linear Algebra in Computer Graphics"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-14
-published: true
+published: false
 labels:
   - Linear Algebra
 ---
