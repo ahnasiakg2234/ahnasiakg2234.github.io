@@ -1,57 +1,78 @@
 {
   "basics": {
-    "name": "Ahnasia ",
+    "name": "Ahnasia",
     "label": "Student",
     "picture": "https://github.com/ahnasiakg2234.png",
     "email": "ahnasia04@gmail.com",
     "phone": "732-215-2828",
     "website": "https://ahnasiakg2234.github.io",
-    "summary": "I am studying for a B.S. in Data Science in the College of Science and Mathematics at Montclair State University. I expect to graduate in Fall, 2026.",
-    "location": { "address": "", "postalCode": "08865", "city": "Phillipsburg", "countryCode": "USA", "region": "New Jersey" },
+    "summary": "I am studying for a B.S. in Data Science in the College of Science and Mathematics at Montclair State University. I expect to graduate in Fall 2026.",
+    "location": {
+      "address": "",
+      "postalCode": "08865",
+      "city": "Phillipsburg",
+      "countryCode": "USA",
+      "region": "New Jersey"
+    },
     "profiles": [
-      { "network": "github", "username": "ahnasiakg2234", "url": "http://github.com/ahnasiakg2234" },
-      { "network": "linkedin", "username": "ahnasiakg2234", "url": "http://linkedin.com/in/ahnasiakg2234" },
-      { "network": "Gmail", "username": "ahnasia04", "url": "mailto:ahnasia04@gmail.com" }
+      {
+        "network": "GitHub",
+        "username": "ahnasiakg2234",
+        "url": "https://github.com/ahnasiakg2234"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "ahnasiakg2234",
+        "url": "https://linkedin.com/in/ahnasiakg2234"
+      },
+      {
+        "network": "Gmail",
+        "username": "ahnasia04",
+        "url": "mailto:ahnasia04@gmail.com"
+      }
     ]
   },
+
   "interests": [
     { "name": "Machine Learning" },
     { "name": "Statistics" },
     { "name": "Probability" },
-    { "name": "Artificial Intelligence"},
+    { "name": "Artificial Intelligence" },
     { "name": "Public Health" }
   ],
+
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "R"]
+      "keywords": ["Python", "R"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub", "iOs", "Microsoft Office", "Visual Studio Code", "JetBrains Toolbox"]
+      "keywords": ["MacOS", "Git/GitHub", "iOS", "Microsoft Office", "Visual Studio Code", "JetBrains Toolbox"]
     }
   ],
+
   "education": [
     {
       "institution": "Montclair State University, Montclair, NJ",
-      "area": "Data Science (expected Fall, 2026)",
+      "area": "Data Science",
       "studyType": "B.S.",
       "startDate": "2024-09-06",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
+
   "work": [
     {
       "company": "Montclair State University",
       "position": "Undergraduate Researcher",
-      "website": " https://github.com/ahnasiakg2234/ASCVD-Clinical-RAG-Assistant",
+      "website": "https://github.com/ahnasiakg2234/ASCVD-Clinical-RAG-Assistant",
       "startDate": "2025-05-27",
       "endDate": "2025-08-01",
-      "summary": "Conducted ML research for a clinical AI assistant",
+      "summary": "Conducted ML research for a clinical AI assistant.",
       "highlights": [
-        "Developed an automated system for analyzing ASCVD treatment gaps using a RAG pipeline.", 
+        "Developed an automated system for analyzing ASCVD treatment gaps using a RAG pipeline.",
         "Analyzed performance metrics of the system based on accuracy, efficiency gains, and clinical utility."
       ]
     },
@@ -61,9 +82,9 @@
       "website": "",
       "startDate": "2020-08-01",
       "endDate": "2025-05-27",
-      "summary": "Responsible for overseeing all customer interactions as well as completion of daily operational checklist",
+      "summary": "Oversaw customer interactions and daily operational tasks.",
       "highlights": [
-        "Cultivated strong multitasking, adaptability, and communication skills in a fast-paced setting.", 
+        "Cultivated strong multitasking, adaptability, and communication skills in a fast-paced setting.",
         "Frequently selected for leadership responsibilities, ensuring high-quality service and team cohesion."
       ]
     },
@@ -73,24 +94,29 @@
       "website": "",
       "startDate": "2022-07-04",
       "endDate": "2024-05-24",
-      "summary": "Responsible for completion of daily operational tasks as well as trainings.",
+      "summary": "Completed daily operational tasks and training responsibilities.",
       "highlights": [
         "Trained and mentored new hires, improving team efficiency and customer satisfaction scores by 30%.",
         "Oversaw inventory and shift operations, ensuring smooth workflow in a high-volume environment."
-      
-  ],
-  "awards": [
-    {
-      "title": "NJ-Stars I/II Scholarship",
-      "date": "2022-Present",
-      "awarder": " State of New Jersey",
-      "summary": "Scholarships awarded to students who graduate in the top 15% of their class whilst having completed a vigorous courseload.",
-      "title": "NJ- Stars Recepient",
-      "date": "2022",
-      "awarder": "Catherine",
-      "summary": "Graduated in the top 8% of my highschool class with a 4.4 GPA"
+      ]
     }
   ],
+
+  "awards": [
+    {
+      "title": "NJ-STARS I/II Scholarship",
+      "date": "2022-Present",
+      "awarder": "State of New Jersey",
+      "summary": "Awarded to students graduating in the top 15% of their class while completing a rigorous course load."
+    },
+    {
+      "title": "NJ-STARS Recipient",
+      "date": "2022",
+      "awarder": "Catherine",
+      "summary": "Graduated in the top 8% of high school class with a 4.4 GPA."
+    }
+  ],
+
   "references": [
     {
       "name": "Available upon request"
