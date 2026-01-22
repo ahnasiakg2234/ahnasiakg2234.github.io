@@ -16,11 +16,12 @@ This program takes a closed formula with "n" elements which is stored in a set. 
 This program also sums the first "n" elements and converts this number into a bianry value. Without using built in functions to find these values, I used the iterative tools and condiitonal statements. 
 Here is some code that illustrates the binary conversion: 
 ```python
-total = sum binary_total= ''
+total = sum
+binary_total= ''
 while total > 0:
-remainder = str(total % 2)
-binary_total += remainder
-total //= 2
+  remainder = str(total % 2)
+  binary_total += remainder
+  total //= 2
 print(f'The sum of the first {n} elements is: ({sum})\u2081\u2080 equivalent to ({binary_total[::-1]})\u2082 ')
 print(int(binary_total[::-1], 2))
 
