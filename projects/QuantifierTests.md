@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/dm.png
+image: img/math.png
 title: "Universal/Existential Quantifier Testing and Binary Conversion"
 date: 2025-04-15
 published: true
