@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Coronary-disease-illustration.jpg
+image: img/heart.jpg
 title: "LLM-powered Clinical AI Assistant using RAG"
 date: 2025-08-01
 published: true
