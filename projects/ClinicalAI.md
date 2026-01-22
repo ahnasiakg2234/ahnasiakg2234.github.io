@@ -13,16 +13,20 @@ labels:
 summary: "This Clinical AI Assistant is an automated system for analyzing ASCVD treatment gaps using a RAG pipeline."
 ---
 <img src = "img/ascvd.png">
+## What is ASCVD and why is it important?
 Atherosclerotic Cardiovascular Disease is an umbrella term for many conditions that stem from a buildup and hardening of plaque in your arteries.
 ASCVD encompasses cardiac events from heart attacks to strokes and/or aneurysms. It is currently the leading cause of death worldwide due to a lack of individual knowledge and preventative measures.
 Accurate and timely diagnosis and therefore treatment can significantly impact patient outcomes and healthcare efficiency.
 
+## Setbacks with medical care
 However, the assessment of this type of disease is non- linear and specific to any one person, which makes it difficult to evaluate patients with true efficacy. 
 Recent advances in Large Language Models (LLMs) have shown promise in supporting clinical tasks such as risk assessment and treatment planning. 
 In particular, clinicians are beginning to use LLMs to identify early signs of disease and to recommend interventions, especially for patients at borderline or high risk.
 
+## Purpose of this Research Project
 This project explores the integration of a Retrieval- Augmented Generation (RAG) pipeline using LLMs to detect treatment gaps in ASCVD care by comparing patient data with up-to-date clinical guidelines.
-Research question: Can LLM-based RAG systems accurately identify treatment gaps by comparing patient data against current ASCVD guidelines?
+
+### Research question: Can LLM-based RAG systems accurately identify treatment gaps by comparing patient data against current ASCVD guidelines?
 
 Here is a few lines of code that illustrates how we prompted the large language model:
 ```python
