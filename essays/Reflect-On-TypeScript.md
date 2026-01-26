@@ -8,6 +8,8 @@ published: true
 labels:
   -  A Reflection on TypeScript
 ---
+[View the HTML version](Reflecting-On-TypeScript.html)
+
 #### The Pill:
   “Excuses are used as tools of the incompetent and are used to build monuments of absolutely nothing.”- An adaptation of Vernon Brundage Jr.s’ original quote
 This lesson has been ingrained into my head since I was eleven years old, and I have carried it with me for years. But somehow, I lost sight of what it truly signified. Learning TypeScript has revived a level of discomfort for me that I assumed I’d surpassed, the uneasiness of facing my own inhibitions. And ironically, I am no longer trying to meet the standards imposed by my rigid father, but instead those of a  programming language equally intolerant of mediocrity. 
