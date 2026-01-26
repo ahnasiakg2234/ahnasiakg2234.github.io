@@ -4,7 +4,7 @@ type: essay
 title: "A Tough Pill to Swallow"
 # All dates must be YYYY-MM-DD format!
 date: 2026-01-25
-published: false
+published: true
 labels:
   -  A Reflection on TypeScript
 ---
