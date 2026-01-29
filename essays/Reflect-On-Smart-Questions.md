@@ -11,8 +11,6 @@ labels:
 
 <div style="text-align:center;"> <img src="notrials.png" alt="Essay image" style="width:600px;"> </div>
 
-[View the HTML version](Reflect-On-Smart-Questions.html)
-
 ## “There is no such thing as a stupid question” is a false statement in the world of software development. 
 Questions that are not well organized or uninformed are declaratively stupid questions, but learning how to ask smart questions can in fact be taught. According to Eric Raymond, asking smart questions is procedural; precise, careful. It entails a level of research that may answer your questions before you even have to ask them. There must be an exhaustive effort made to solve the issue prior to seeking assistance from any forums, chat rooms, by email, etc. This is because many solutions can be found with just a little exploration; a google search, a quick skim of the relevant technical manual, or even a chat with an experienced peer. 
 
@@ -75,6 +73,7 @@ All in all, to ask “smart” questions as a smart software engineer is signifi
 
 [Link to Smart Questions Guidelines by Eric Raymond](http://www.catb.org/esr/faqs/smart-questions.html)
 
+[View the HTML version](Reflect-On-Smart-Questions.html)
 
 
 
