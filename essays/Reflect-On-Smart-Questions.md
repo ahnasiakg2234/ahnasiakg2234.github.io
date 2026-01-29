@@ -19,7 +19,7 @@ Before inquiring about your problem, your foremost duty is cultivating your pers
 
 ```typescript
 function calcProb(x:number, total: number) : number {
-   return ‘probability’;
+   return ‘probability';
 } 
 const heads = calcProb(1,4);
 console.log(`Probability of getting heads is ${heads * 100}%`);
@@ -45,7 +45,7 @@ Which gives me the outcome I was initially looking for. In this instance, I foun
 
 The problem with this is that it actually doesn’t help you learn: we learn best by trial and error. Although it can be time consuming, working through things on your own teaches you a lot. If you’ve ever heard the saying “You can give a man a fish, and he’ll eat for a day. But you can teach a man to fish and he’ll eat for life.”, this resembles that process. Raymond suggests this same sentiment with the phrase: “Answering one good question is like feeding a hungry person one meal, but teaching them research skills by example is showing them how to grow food for a lifetime.” Taking the easy way out and receiving the answers doesn’t teach you to solve anything, it is just a bandaid. Taking the time to learn what works and what doesn’t work, true analysis and research, will take you much farther and equip you with the mindset to be an exceptional Software Engineer.
 
-Based on the precepts outlined by Eric Raymond, the following question is not a “smart” question [Not Smart Question](https://stackoverflow.com/questions/372885/how-do-i-connect-to-a-mysql-database-in-python/622308#622308): “How do I connect to a MySQL Database in Python?” 
+Based on the precepts outlined by Eric Raymond, the following question is [not a smart question](https://stackoverflow.com/questions/372885/how-do-i-connect-to-a-mysql-database-in-python/622308#622308): “How do I connect to a MySQL Database in Python?” 
 While this question is not an informed question, there can be a lot learned from it. First of all, the post to the attached question provided no further context to the issue. The commenter does not confirm nor deny whether they have tried to download the application themselves, or even if they did any research. This issue simply could have been solved with a google search. The commenter doesn’t clarify the type of operating system or requirements needed,  which can be important as there are different versions of software depending on your machine. 
 The comments posted in response to this question were albeit helpful, but also confusing. For example: 
 
@@ -53,8 +53,8 @@ The comments posted in response to this question were albeit helpful, but also c
   *2. Use pymysql. It does all of what MySQLDb does, but it was implemented purely in* *Python with NO External Dependencies. This makes the installation process on all* *operating systems consistent and easy. pymysql is a drop in replacement for MySQLDb* *and IMHO there is no reason to ever use MySQLDb for anything... EVER! - PTSD from* *installing MySQLDb on Mac OSX and Nix systems, but that's just me.”*
  *Which are valid responses to the initial query, but for someone without any idea* *what they are doing, it might be difficult to know which advice to take.*
 
-On the other hand, the following question would be regarded as a “smart” question
-[Smart Question](https://stackoverflow.com/questions/990754/how-to-leave-exit-deactivate-a-python-virtualenv): “How to leave/exit/deactivate a Python virtualenv?”.
+On the other hand, the following question would be regarded as a
+[smart question](https://stackoverflow.com/questions/990754/how-to-leave-exit-deactivate-a-python-virtualenv): “How to leave/exit/deactivate a Python virtualenv?”.
 This question was backed by the user’s experience with trial and error. This user gave context to the issue, explained what their goal was, explained what they had already tried, and only then asked for advice to fix the problem. They also provided their machine’s terminal text to show what commands they had been using, and the programming language being used. This user was explicit, informed, and wanted collaboration instead of being handed an answer.  The responses were mostly all on the same accord, generally straightforward, and not lengthy: 
 
 *1. “Use: $ deactivate If this doesn't work, try $ source deactivate”*
