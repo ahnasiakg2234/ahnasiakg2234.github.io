@@ -50,15 +50,18 @@ While this question is not an informed question, there can be a lot learned from
 The comments posted in response to this question were albeit helpful, but also confusing. For example: 
 
 *1. “Best way to connect to MySQL from python is to use MySQL Connector/Python* *because it is the official Oracle driver for MySQL for working with Python and it* *works with both Python 3 and Python 2 follow the steps mentioned below to connect* *MySQL”*
+
   *2. Use pymysql. It does all of what MySQLDb does, but it was implemented purely in* *Python with NO External Dependencies. This makes the installation process on all* *operating systems consistent and easy. pymysql is a drop in replacement for MySQLDb* *and IMHO there is no reason to ever use MySQLDb for anything... EVER! - PTSD from* *installing MySQLDb on Mac OSX and Nix systems, but that's just me.”*
  *Which are valid responses to the initial query, but for someone without any idea* *what they are doing, it might be difficult to know which advice to take.*
 
 On the other hand, the following question would be regarded as a
 [smart question](https://stackoverflow.com/questions/990754/how-to-leave-exit-deactivate-a-python-virtualenv): “How to leave/exit/deactivate a Python virtualenv?”.
-This question was backed by the user’s experience with trial and error. This user gave context to the issue, explained what their goal was, explained what they had already tried, and only then asked for advice to fix the problem. They also provided their machine’s terminal text to show what commands they had been using, and the programming language being used. This user was explicit, informed, and wanted collaboration instead of being handed an answer.  The responses were mostly all on the same accord, generally straightforward, and not lengthy: 
+This question was backed by the user’s experience with trial and error. This user gave context to the issue, explained what their goal was, explained what they had already tried, and only then asked for advice to fix the problem. They also provided their machine’s terminal text to show what commands they had been using, and the programming language being used. This user was explicit, informed, and wanted collaboration instead of being handed an answer. The responses were mostly all on the same accord, generally straightforward, and not too lengthy: 
 
 *1. “Use: $ deactivate If this doesn't work, try $ source deactivate”*
+
 *2. “$ deactivate”*
+
 *3. “In order to deactivate your virtualenv: (myenv)$ deactivate”*
 Most of the responses to the question were formatted as such, and provide explicit and useful information to the user in need. 
 
