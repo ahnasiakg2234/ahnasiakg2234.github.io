@@ -11,4 +11,62 @@ labels:
 [View the HTML version](Reflect-On-Smart-Questions.html)
 
 <div style="text-align:center;"> <img src="notrials.jpg" alt="Essay image" style="width:600px;"> </div>
+
 ## “There is no such thing as a stupid question” is a false statement in the world of software development. 
+Questions that are not well organized or uninformed are declaratively stupid questions, but learning how to ask smart questions can in fact be taught. According to Eric Raymond, asking smart questions is procedural; precise, careful. It entails a level of research that may answer your questions before you even have to ask them. There must be an exhaustive effort made to solve the issue prior to seeking assistance from any forums, chat rooms, by email, etc. This is because many solutions can be found with just a little exploration; a google search, a quick skim of the relevant technical manual, or even a chat with an experienced peer. 
+
+Before inquiring about your problem, your foremost duty is cultivating your personal understanding of said problems. Asking questions to solve problems where you are unsure of what you’re trying to accomplish, why you’re trying to accomplish it, and how you’re intending to accomplish it, is a recipe for failure. The point is, you have to do most of the work; there needs to be a willingness to actively participate in FINDING the solution, not just receiving it. As a software engineer, knowing what questions to ask when faced with nonworking or error-filled code, starts with comprehension and analysis of the code. Take this snippet of TypeScript code for example, where implementing a simple probability function throws an error: 
+
+```typescript
+function calcProb(x:number, total: number) : number {
+   return ‘probability’;
+} 
+const heads = calcProb(1,4);
+console.log(`Probability of getting heads is ${heads * 100}%`);
+//Error : Type 'string' is not assignable to type 'number'.
+
+
+//Output: "Probability of getting heads is NaN%" 
+```
+Now, if we take a look at this code, what can we analyze from this? Well, this is a function implemented to calculate the probability of an event. Why is this being calculated? Perhaps to allow for quicker calculation, or to decrease redundancy due to the need of multiple calculations.  In general, the probability formula estimates the likelihood of achieving a number of successful outcomes in the total outcomes. Because we’ve gained clarity on what we’re trying to achieve and why, we can now look at the how. The function takes two numbers as input and should return another number, which makes sense given that the probability of an event is typically a percentage, float or integer. What the code actually returns is not a numerical calculation, and instead a string. Since the function is expecting to return a number and not a string, the code is unable to execute and a “Type” error is thrown. There also needs to be a conditional check for if the total is zero or less, because any number divided by zero is undefined. Probability also cannot be less than zero. Another conditional check for keeping the x value less than the total is also helpful. Now that I understand what the issue is, I can revise the code:
+
+```typescript
+function calcProb(x:number, total: number) : number {
+  if (total <= 0 || x > total) {
+      return 0;
+  }
+  return x/total;
+}
+const heads = calcProb(1, 2);
+console.log(`Probability of getting heads is ${heads * 100}%`);
+//Output : “Probability of getting heads is 50%”
+```
+Which gives me the outcome I was initially looking for. In this instance, I found the solution by reviewing the code thoroughly. Understanding what the code was supposed to do made it simpler to solve the issue because it was easier to see where the logic was flawed. Understanding the language I’m using, what it expects, and how it should be implemented was a key factor as well. TypeScript relies heavily on correctly assigning types to variables, and by assigning the division of two numbers to return a number, only to return a string, is where the mistake lies. Had I asked a question via StackOverflow: “Why am I getting an error here?”,  without backtracking first, there are a few assumptions one could make about me. For one, I am asking a question that can be answered with a simple proofread. Also, I am looking for someone to solve my problem for me, instead of trying to work through it first. And, I didn’t make an exhaustive effort to solve my problem without running to the experts. 
+
+The problem with this is that it actually doesn’t help you learn: we learn best by trial and error. Although it can be time consuming, working through things on your own teaches you a lot. If you’ve ever heard the saying “You can give a man a fish, and he’ll eat for a day. But you can teach a man to fish and he’ll eat for life.”, this resembles that process. Raymond suggests this same sentiment with the phrase: “Answering one good question is like feeding a hungry person one meal, but teaching them research skills by example is showing them how to grow food for a lifetime.” Taking the easy way out and receiving the answers doesn’t teach you to solve anything, it is just a bandaid. Taking the time to learn what works and what doesn’t work, true analysis and research, will take you much farther and equip you with the mindset to be an exceptional Software Engineer.
+
+Based on the precepts outlined by Eric Raymond, the following question is not a “smart” question [Not Smart Question](https://stackoverflow.com/questions/372885/how-do-i-connect-to-a-mysql-database-in-python/622308#622308): “How do I connect to a MySQL Database in Python?” 
+While this question is not an informed question, there can be a lot learned from it. First of all, the post to the attached question provided no further context to the issue. The commenter does not confirm nor deny whether they have tried to download the application themselves, or even if they did any research. This issue simply could have been solved with a google search. The commenter doesn’t clarify the type of operating system or requirements needed,  which can be important as there are different versions of software depending on your machine. 
+The comments posted in response to this question were albeit helpful, but also confusing. For example: 
+
+*1. “Best way to connect to MySQL from python is to use MySQL Connector/Python* *because it is the official Oracle driver for MySQL for working with Python and it* *works with both Python 3 and Python 2 follow the steps mentioned below to connect* *MySQL”*
+  *2. Use pymysql. It does all of what MySQLDb does, but it was implemented purely in* *Python with NO External Dependencies. This makes the installation process on all* *operating systems consistent and easy. pymysql is a drop in replacement for MySQLDb* *and IMHO there is no reason to ever use MySQLDb for anything... EVER! - PTSD from* *installing MySQLDb on Mac OSX and Nix systems, but that's just me.”*
+ *Which are valid responses to the initial query, but for someone without any idea* *what they are doing, it might be difficult to know which advice to take.*
+
+On the other hand, the following question would be regarded as a “smart” question
+[Smart Question](https://stackoverflow.com/questions/990754/how-to-leave-exit-deactivate-a-python-virtualenv): “How to leave/exit/deactivate a Python virtualenv?”.
+This question was backed by the user’s experience with trial and error. This user gave context to the issue, explained what their goal was, explained what they had already tried, and only then asked for advice to fix the problem. They also provided their machine’s terminal text to show what commands they had been using, and the programming language being used. This user was explicit, informed, and wanted collaboration instead of being handed an answer.  The responses were mostly all on the same accord, generally straightforward, and not lengthy: 
+
+*1. “Use: $ deactivate If this doesn't work, try $ source deactivate”*
+*2. “$ deactivate”*
+*3. “In order to deactivate your virtualenv: (myenv)$ deactivate”*
+Most of the responses to the question were formatted as such, and provide explicit and useful information to the user in need. 
+
+All in all, to ask “smart” questions as a smart software engineer is significant to the learning process. It builds critical thinking skills by forcing you to analyze and evaluate information to help guide your next steps. It allows you to exercise your brain to its fullest potential and leaves you with more knowledge than you started with. Asking uninformed or “stupid” questions can ultimately lead to confusion. Being unaware of the what, why, and how makes the journey to a solution more difficult for you and whomever you decide to ask for help. Instead, knowing your questions and defining your goals will save you time because in searching through responses, you know exactly what to look for. 
+
+
+[Link to Smart Questions Guidelines by Eric Raymond](http://www.catb.org/esr/faqs/smart-questions.html)
+
+
+
+
