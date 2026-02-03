@@ -17,7 +17,7 @@ labels:
   
 This lesson has been ingrained into my head since I was eleven years old, and I have carried it with me for years. But somehow, I lost sight of what it truly signified. Learning TypeScript has revived a level of discomfort for me that I assumed I’d surpassed, the uneasiness of facing my own inhibitions. And ironically, I am no longer trying to meet the standards imposed by my rigid father, but instead those of a  programming language equally intolerant of mediocrity. 
 
-  Python is a language that has often felt instinctual to me. Its pliability was reflective of  the way I typically thought about problem-solving, in a fluid and digestible way. For example, writing a code that adds the numbers in an array:
+  Python is a language that has often felt instinctual to me. Its pliability is reflective of the way I typically think about problem-solving, in a fluid and digestible way. For example, defining a function that sums each number in an array:
 ```python
 def sum(numbers):
   total = 0
@@ -26,8 +26,9 @@ def sum(numbers):
   return total
 
 result = sum([1,2,3,4,5])
+print(result)
 ```
-Python doesn’t require specifications, it instead trusts that I know. Contrastingly though: 
+Python doesn’t require specifications, it instead trusts that I know what I've written. Contrastingly though, TypeScript has some differences:
 ```typescript
 function sumArray(numbers: number[]): number { 
   let total = 0; for (let i = 0; i < numbers.length; i++) { 
@@ -37,7 +38,7 @@ function sumArray(numbers: number[]): number {
 } 
 const result = sumArray([1, 2, 3, 4, 5]);
 ```
-TypeScript does not yield the same level of ease. Every variable must be declared with a type and specifications as to what it will take in and what it will output. Its exacting type system has revealed my comfortability with making excuses. And when looking this revelation in the eyes, I let the fear of incompetence creep back in. So, I asked myself: Am I truly incapable of learning TypeScript, or have I fallen prey to excuses that keep me from being disciplined enough to keep trying? 
+TypeScript does not yield the same level of ease. Every variable must be declared with a type and specifications as to what it will take in and what it will output. Its exacting type system has revealed my comfortability with making excuses. And when looking this revelation in the eyes, I let the fear of incompetence creep back in. So, I asked myself: Am I truly incapable of learning TypeScript, or have I fallen prey to excuses that keep me from being disciplined enough to continue trying? 
 #### “This is going to be difficult”
 I began waving the white flag before the semester had a chance to start. After the very first class where the professor outlined the workload, something in me wanted to try, but I soon decided that the effort wasn’t worth it. I told myself, “Just do enough to pass.”, but passing does not guarantee that I’ve learned anything. Understanding theories and concepts means nothing if I can’t apply them to something tangible. It is not enough for me to “get by”, if I cannot grasp how all of the pieces fit together . To accept the bare minimum is ensuring personal limitations. The successful future I’ve conjured in my head requires more than I’ve had the will to give. 
 #### “But I only know Python”
