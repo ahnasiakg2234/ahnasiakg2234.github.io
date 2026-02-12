@@ -11,7 +11,7 @@ labels:
 
 [View the HTML version](Reflect-on-Coding-Standards.html)
 
-<div style="text-align:center;"> <img src="annoyed.jpeg" alt="Essay image" style="width:600px;"> </div>
+<div style="text-align:center;"> <img src="annoyed.jpg" alt="Essay image" style="width:600px;"> </div>
 
 
 #### First of all :
