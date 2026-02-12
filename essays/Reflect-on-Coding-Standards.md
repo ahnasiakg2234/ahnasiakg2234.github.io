@@ -7,6 +7,7 @@ published: true
 labels:
   -  A Reflection on Coding Standards
 ---
+
 [View the HTML version](Reflect-on-Coding-Standards.html)
 
 <div style="text-align:center;"> <img src="annoyed.jpeg" alt="Essay image" style="width:600px;"> </div>
