@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "An Egregious Tool"
+title: "The UI Experience"
 # All dates must be YYYY-MM-DD format!
 date: 2026-02-25
 published: true
@@ -11,19 +11,15 @@ labels:
 
 [View the HTML version](Reflect-on-UI-Design.html)
 
-<div style="text-align:center;"> <img src="annoyed.jpg" alt="Essay image" style="width:600px;"> </div>
-
 
 #### There is no right or wrong when it comes to creation, you just do what feels right. 
 We inhabit a world where there is no one way to do art. What I like about UI design is that one does not have to be a master artist to create something with meaning. It can be simple, basic, and still comprehensible. UI design is the fun part of software development; you have all the free reign to make a page come to life. 
 
 
 ### My initial experience
-y initial experience with user interface design consists of Streamlit on python. Streamlit allows the user to build anything from a dashboard to a functioning prototype of an llm-powered chat application. Streamlit was really fun to work with as a beginner because it was easy to plug and play with many different tools. I started with building very simple generative pages with input text boxes. After a few weeks of debugging and perfecting code, using Streamlit to implement the front-end was the easier part. 
+My initial experience with user interface design consists of Streamlit on python. Streamlit allows the user to build anything from a dashboard to a functioning prototype of an llm-powered chat application. Streamlit was really fun to work with as a beginner because it was easy to plug and play with many different tools. I started with building very simple generative pages with input text boxes. After a few weeks of debugging and perfecting code, using Streamlit to implement the front-end was the easier part. 
 
 For reference, I made my prototype as basic as possible, given that the calculations, and other medical data was so complex. I wanted it to be readable, easy to work with, as well as managing information. Since the project relied heavily on patient data, I ensured that my application allowed viewing and updating the database as needed.
-
-*Image here: Showing the main page of the Streamlit UI*
 
 <div style="text-align:center;"> <img src="pictures/Streamlit.png" alt="Essay image" style="width:600px;"> </div>
 
