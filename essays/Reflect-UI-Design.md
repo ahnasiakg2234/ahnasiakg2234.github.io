@@ -9,9 +9,6 @@ labels:
   -  A Reflection on Basic UI Design
 ---
 
-[View the HTML version](Reflect-on-UI-Design.html)
-
-
 #### There is no right or wrong when it comes to creation, you just do what feels right. 
 We inhabit a world where there is no one way to do art. What I like about UI design is that one does not have to be a master artist to create something with meaning. It can be simple, basic, and still comprehensible. UI design is the fun part of software development; you have all the free reign to make a page come to life. 
 
@@ -33,8 +30,10 @@ That brings to the point of “reading the room” when designing anything. It i
 The difference between using Streamlit versus Bootstrap 5 to style a page is flexibility. Streamlit is a resource primarily used for all things in the scope of data science and machine learning, which can involve a multitude of mathematical applications and the integration of AI tools. Bootstrap 5 is more flexible in the sense that it covers a broad range of designs that it may be used for; it is supposed to be more personable and creative. We can create something like a full functioning website for a pizza shop, a clothing store, or even a makeup brand. The tools that Bootstrap 5 have, allow for the use of so many different features to make style specific choices. 
 
 *Here is my recreation of the chipotle homepage using Bootstrap 5*
-<div style="text-align:center;"> <img src="" alt="Essay image" style="width:600px;"> </div>
+<div style="text-align:center;"> <img src="pictures/chipotle.png" alt="Essay image" style="width:600px;"> </div>
 
 Don't get me wrong, Streamlit can achieve something similar to this, but the difference is that Streamlit would only act as a simulated environment, it would not function like a website. 
 So, for a UI that needs to function like a website at some point, using tools like Bootstrap are very helpful to achieve an interactive and innovative environment with many different attributes. 
 I do prefer Streamlit solely based on familiarity at this point, but I have also had my fun with Bootstrap 5.
+
+[View the HTML version](Reflect-on-UI-Design.html)
