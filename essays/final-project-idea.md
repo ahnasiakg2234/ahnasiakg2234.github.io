@@ -10,15 +10,15 @@ labels:
 ---
 ## Project Overview : IslandRide Exchange
 The core objectives of this project are to create a peer-to-peer vehicle swap platform that allows Hawai'i residents to:
- swap cars between islands upon traveling
- borrow/trade vehicles for specific needs
- avoid expensive rentals/limited availability
+1. Swap cars between islands upon traveling
+2. Borrow/trade vehicles for specific needs
+3. Avoid expensive rentals/limited availability
 Think Airbnb, but car exchange instead of renting. 
 
-### The Problem 
+*Problem*:
  Inter and intra-island travel can often be a headache. Getting around the islands without a car means spending extra money to rent a vehicle and/or using a ride-share service.
 
- ### Our Proposed Solution
+*Solution*:
  Instead of that, we propose creating a car swap app: IslandRide Exchange. This app allows people to exchange or trade vehicles for vehicles suitable to their current needs. 
 
 ## Approach
@@ -28,7 +28,7 @@ Swappers can post profiles that include their name, location and vehicle details
 
 Island Ride Admins are permitted to remove any suspicious or unverified profiles or listings from the application. 
 
-## Possible Mockup Pages
+#### Some Possible Mockup Pages Include: 
 Home-Page
 <div style="text-align:center;"> <img src="essays/pictures/homepage.png" alt="Essay image" style="width:400px;"> </div>
 Login/Register
@@ -39,7 +39,6 @@ Friends/Followers
 <div style="text-align:center;"> <img src="essays/pictures/friends.png" alt="Essay image" style="width:400px;"> </div>
 Reviews
 <div style="text-align:center;"> <img src="essays/pictures/Reviews.png" alt="Essay image" style="width:400px;"> </div>
-
 
 ## Use Case Ideas
 New user goes to landing page, logs in, gets home page, sets up profile. 
@@ -53,8 +52,8 @@ User profile pages may include images of vehicles they have listed and wish to e
 
 ## Beyond the Basics
 After implementing the basic functionality, here are ideas for more advanced features:
-Expansion of types of exchanges(not solely vehicles)
-Notify admins of new profiles
+- Expansion of types of exchanges(not solely vehicles)
+- Notify admins of new profiles
 
 ## Faculty Mentor
 Brook Conner
