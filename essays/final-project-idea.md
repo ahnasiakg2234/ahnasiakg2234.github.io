@@ -15,10 +15,10 @@ The core objectives of this project are to create a peer-to-peer vehicle swap pl
 3. Avoid expensive rentals/limited availability
 Think Airbnb, but car exchange instead of renting. 
 
-*Problem*:
+*Problem* :
  Inter and intra-island travel can often be a headache. Getting around the islands without a car means spending extra money to rent a vehicle and/or using a ride-share service.
 
-*Solution*:
+*Solution* :
  Instead of that, we propose creating a car swap app: IslandRide Exchange. This app allows people to exchange or trade vehicles for vehicles suitable to their current needs. 
 
 ## Approach
@@ -30,15 +30,15 @@ Island Ride Admins are permitted to remove any suspicious or unverified profiles
 
 #### Some Possible Mockup Pages Include: 
 Home-Page
-![Home-Page Image]("essays/pictures/homepage.png")
+![Home-Page Image](essays/pictures/homepage.png)
 Login/Register
-![Log-In Image]("essays/pictures/logInReg.png")
+![Log-In Image](essays/pictures/logInReg.png)
 Profile
-![Profile Page Image]("essays/pictures/profile.png")
+![Profile Page Image](essays/pictures/profile.png)
 Friends/Followers
-![Friends Image]("essays/pictures/friends.png")
+![Friends Image](essays/pictures/friends.png)
 Reviews
-![Reviews Page Image]("essays/pictures/Reviews.png")
+![Reviews Page Image](essays/pictures/Reviews.png)
 
 ## Use Case Ideas
 - New user goes to landing page, logs in, gets home page, sets up profile. 
