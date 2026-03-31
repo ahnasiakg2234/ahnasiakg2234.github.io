@@ -26,19 +26,19 @@ Island Ride Exchange has two user roles: swappers and administrators. Any user c
 
 Swappers can post profiles that include their name, location and vehicle details. The vehicle details must include condition, valid registration, insurance, and inspection sticker. They can also request to swap vehicles with anyone nearby. They can edit their own listings or requests. Each user may display an image on their page that can host their vehicle as described in their vehicle details. Swappers can accept or deny a request to swap as desired. Swapper rating will also be displayed. 
 
-Island Ride Admins are permitted to remove any suspicious or unverified profiles or listings from the application. 
+Island Ride Admins are permitted to remove any suspicious or unverified profiles or listings from the application. Admin is also permitted to removing any inappropriate or threatening ratings/reviews. 
 
 #### Some Possible Mockup Pages Include: 
 Home-Page
-![Home-Page Image](essays/pictures/homepage.png)
+![Home-Page Image](/essays/pictures/homepage.png)
 Login/Register
-![Log-In Image](essays/pictures/logInReg.png)
+![Log-In Image](pictures/logInReg.png)
 Profile
-![Profile Page Image](essays/pictures/profile.png)
+![Profile Page Image](pictures/profile.png)
 Friends/Followers
-![Friends Image](essays/pictures/friends.png)
+![Friends Image](pictures/friends.png)
 Reviews
-![Reviews Page Image](essays/pictures/Reviews.png)
+![Reviews](pictures/Reviews.png)
 
 ## Use Case Ideas
 - New user goes to landing page, logs in, gets home page, sets up profile. 
@@ -49,6 +49,7 @@ Reviews
 - Registered swapper accounts can connect with other swappers regarding matches.
 - All user profiles may contain basic info such as name,location, preferred contact, and vehicle details.
 - User profile pages may include images of vehicles they have listed and wish to exchange, as well as swap history.
+- Allow swappers to rate one another
 
 ## Beyond the Basics
 After implementing the basic functionality, here are ideas for more advanced features:
