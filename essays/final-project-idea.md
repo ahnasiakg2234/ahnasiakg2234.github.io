@@ -13,7 +13,8 @@ The core objectives of this project are to create a peer-to-peer vehicle swap pl
 1. Swap cars between islands upon traveling
 2. Borrow/trade vehicles for specific needs
 3. Avoid expensive rentals/limited availability
-Think Airbnb, but car exchange instead of renting. 
+   
+**Think Airbnb, but for car exchange instead of renting.**
 
 *Problem* :
  Inter and intra-island travel can often be a headache. Getting around the islands without a car means spending extra money to rent a vehicle and/or using a ride-share service.
