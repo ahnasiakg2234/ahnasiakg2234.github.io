@@ -30,7 +30,7 @@ Island Ride Admins are permitted to remove any suspicious or unverified profiles
 
 #### Some Possible Mockup Pages Include: 
 Home-Page
-<img src="homepage.png" alt="Home-Page" width="300">
+![Home Page](pictures/homepage.png)
 
 Login/Register
 ![Log-In Image](pictures/logInReg.png)
@@ -42,7 +42,7 @@ Friends/Followers
 ![Friends Image](pictures/friends.png)
 
 Reviews
-![Reviews](essays/pictures/Reviews.png)
+![Reviews](pictures/Reviews.png)
 
 ## Use Case Ideas
 - New user goes to landing page, logs in, gets home page, sets up profile. 
@@ -59,6 +59,8 @@ Reviews
 After implementing the basic functionality, here are ideas for more advanced features:
 - Expansion of types of exchanges(service exchanges)
 - Notify admins of new profiles to verify
+- Add event specific tabs for vehicle exchange
+- Online Contract for Legal Purposes 
 
 ## Faculty Mentor
 Brook Conner
