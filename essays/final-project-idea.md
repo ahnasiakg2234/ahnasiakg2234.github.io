@@ -30,15 +30,15 @@ Island Ride Admins are permitted to remove any suspicious or unverified profiles
 
 #### Some Possible Mockup Pages Include: 
 Home-Page
-<div style="text-align:center;"> <img src="essays/pictures/homepage.png" alt="Essay image" style="width:400px;"> </div>
+![Home-Page Image]("essays/pictures/homepage.png")
 Login/Register
-<div style="text-align:center;"> <img src="essays/pictures/logInReg.png" alt="Essay image" style="width:400px;"> </div>
+![Log-In Image]("essays/pictures/logInReg.png")
 Profile
-<div style="text-align:center;"> <img src="essays/pictures/profile.png" alt="Essay image" style="width:400px;"> </div>
+![Profile Page Image]("essays/pictures/profile.png")
 Friends/Followers
-<div style="text-align:center;"> <img src="essays/pictures/friends.png" alt="Essay image" style="width:400px;"> </div>
+![Friends Image]("essays/pictures/friends.png")
 Reviews
-<div style="text-align:center;"> <img src="essays/pictures/Reviews.png" alt="Essay image" style="width:400px;"> </div>
+![Reviews Page Image]("essays/pictures/Reviews.png")
 
 ## Use Case Ideas
 - New user goes to landing page, logs in, gets home page, sets up profile. 
@@ -52,8 +52,10 @@ Reviews
 
 ## Beyond the Basics
 After implementing the basic functionality, here are ideas for more advanced features:
-- Expansion of types of exchanges(not solely vehicles)
-- Notify admins of new profiles
+- Expansion of types of exchanges(service exchanges)
+- Notify admins of new profiles to verify
+- 
+- 
 
 ## Faculty Mentor
 Brook Conner
