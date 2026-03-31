@@ -30,7 +30,7 @@ Island Ride Admins are permitted to remove any suspicious or unverified profiles
 
 #### Some Possible Mockup Pages Include: 
 Home-Page
-![Home-Page Image](essays/pictures/homepage.png)
+<img src="homepage.jpg" alt="Home-Page" width="300">
 
 Login/Register
 ![Log-In Image](pictures/logInReg.png)
