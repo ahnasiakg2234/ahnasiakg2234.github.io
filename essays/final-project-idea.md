@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Final Project Idea"
-date: 2026-11-04
+date: 2026-03-30
 published: true
 labels:
   - Software Engineering
