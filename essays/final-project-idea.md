@@ -8,7 +8,7 @@ labels:
   - Software Engineering
   - Nextjs
 ---
-## Project Overview
+## Project Overview : IslandRide Exchange
 The core objectives of this project are to create a peer-to-peer vehicle swap platform that allows Hawai'i residents to:
  swap cars between islands upon traveling
  borrow/trade vehicles for specific needs
@@ -18,7 +18,7 @@ Think Airbnb, but car exchange instead of renting.
 ### The Problem 
  Inter and intra-island travel can often be a headache. Getting around the islands without a car means spending extra money to rent a vehicle and/or using a ride-share service.
 
- ### Our Proposed Solution:
+ ### Our Proposed Solution
  Instead of that, we propose creating a car swap app: IslandRide Exchange. This app allows people to exchange or trade vehicles for vehicles suitable to their current needs. 
 
 ## Approach
@@ -29,16 +29,15 @@ Swappers can post profiles that include their name, location and vehicle details
 Island Ride Admins are permitted to remove any suspicious or unverified profiles or listings from the application. 
 
 ## Possible Mockup Pages
-
-1. Home-Page
+Home-Page
 <div style="text-align:center;"> <img src="essays/pictures/homepage.png" alt="Essay image" style="width:400px;"> </div>
-2. Login/Register
+Login/Register
 <div style="text-align:center;"> <img src="essays/pictures/logInReg.png" alt="Essay image" style="width:400px;"> </div>
-3. Profile
+Profile
 <div style="text-align:center;"> <img src="essays/pictures/profile.png" alt="Essay image" style="width:400px;"> </div>
-4. Friends/Followers
+Friends/Followers
 <div style="text-align:center;"> <img src="essays/pictures/friends.png" alt="Essay image" style="width:400px;"> </div>
-5. Reviews
+Reviews
 <div style="text-align:center;"> <img src="essays/pictures/Reviews.png" alt="Essay image" style="width:400px;"> </div>
 
 
