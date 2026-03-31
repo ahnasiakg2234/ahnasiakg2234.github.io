@@ -41,14 +41,14 @@ Reviews
 <div style="text-align:center;"> <img src="essays/pictures/Reviews.png" alt="Essay image" style="width:400px;"> </div>
 
 ## Use Case Ideas
-New user goes to landing page, logs in, gets home page, sets up profile. 
-Admin goes to landing page, logs in, gets home page, edits site.
-When a user enters the website, they are able to view the revolving listings and are able to login or create an account, and search for profiles to swap to/from.
-Account creation allows the user to create a swapper account.
-Registered users can display their vehicles and make connections with other swappers.
-Registered swapper accounts can connect with other swappers regarding matches.
-All user profiles may contain basic info such as name,location, preferred contact, and vehicle details.
-User profile pages may include images of vehicles they have listed and wish to exchange, as well as swap history.
+- New user goes to landing page, logs in, gets home page, sets up profile. 
+- Admin goes to landing page, logs in, gets home page, edits site.
+- When a user enters the website, they are able to view the revolving listings and are able to login or create an account, and search for profiles to swap to/from.
+- Account creation allows the user to create a swapper account.
+- Registered users can display their vehicles and make connections with other swappers.
+- Registered swapper accounts can connect with other swappers regarding matches.
+- All user profiles may contain basic info such as name,location, preferred contact, and vehicle details.
+- User profile pages may include images of vehicles they have listed and wish to exchange, as well as swap history.
 
 ## Beyond the Basics
 After implementing the basic functionality, here are ideas for more advanced features:
