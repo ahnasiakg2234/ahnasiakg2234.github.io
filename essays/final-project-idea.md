@@ -69,4 +69,4 @@ Brook Conner
 ## Student Creators
 Zackary Lown, Jaimes Mexia-Santiago, Ahnasia Goulbourne
 
-
+[View the HTML version](final-project-idea.html)
