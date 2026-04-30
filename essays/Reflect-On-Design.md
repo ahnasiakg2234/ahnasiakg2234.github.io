@@ -1,24 +1,37 @@
 ---
 layout: essay
 type: essay
-title: "The know-it-all"
+title: "KISS"
 # All dates must be YYYY-MM-DD format!
 date: 2026-04-29
 published: true
 labels:
   -  Reflect on Design Patterns
 ---
+# Keep it Simple, Stupid
 
-## New Apartment
-Imagine you are a fresh college graduate leaving home for good. You just turned 22 and are ready to spread your wings. You saved every penny from the last four years of college and can finally afford that deluxe apartment in the sky. Between 54th and 7th ave, next to that hole in the wall bakery that sells those heavenly brown butter cookies. You stroll down the street with your luggage, gaining a new leash on life. You enter your new apartment and settle in. After the newness wears off, you realize you are surrounded by four blank walls and a suitcase full of hope. The floor will be your bed tonight and your dreams will serve as your dinner. 
+## Visualize 
+If you have ever made and/or used a template for any type of business project or personal venture, then you already have an idea of the fundamentals of design patterns. Templates are pieces of documentation that act as a structural foundation to guide the implementation of new and similar pieces of work. The same way architectural blueprints follow a baseline to keep a common standard, while allowing room for agency, the same way templates are applied to different works with similar objectives. Typically, these types of pre-formatted designs are set in place to essentially streamline development by increasing efficiency, consistency, and reducing foot work. We can see examples of this in 
+systems like MS Word, Canva, and Capcut, to name a few. While each platform represents a different sector of guides, from documents, to presentations, to videos, they all consider the same benefits. These examples reflect the underlying framework of design patterns.
+<div style="text-align:center;"> <img src="pictures/templates.png" alt="Example Template" style="width:600px;"> </div>
 
-## Furniture
-For a few weeks, you endure the cold hardwood floor and the empty fridge. While eating your dinner of dry cereal, you find a few dog walking gigs that pay well. You plan to save up the money to actually furnish and decorate your apartment. You find inspiration on social media that will act as an outline for the theme of your place. You spend weeks dog walking and thrifting small items you need like a novelty lamp, a rug, abstract poster art, and mood lighting. Many of the pieces need miniscule repairs, but you have always deemed yourself a DIY guru. You save enough to afford that cloud couch, spotted panther coffee table, and authentic bamboo bedframe with the organic cotton mattress. At last, you have done it. 
+### Identify
+The first step in applying design patterns lies in the problem itself. While we've come to understand that the use of templates or blueprints aims to introduce a common standardized structure, we must first realize the specific issue requiring a solution. 
+For example, writing several lines of code, in any respect, can lead to inflexibility. The issue with code being inflexible is that it can only handle a minimal amount of situations. When you want to handle a broad range of instances, it is important to add generalization for reusability. 
+After defining the problem, we have to acknowledge the limitations of certain software, as well as finding an appropriate pattern to resolve it. This is the most important step in applying design patterns, as it accounts for analysis and informed selection. 
 
-## Independent Skills
-Now, it was time to put those DIY skills to use on something as novel as adulting. You start with the little fixes, deep cleaning the rug, 
+### Rough Draft
+Once the problem and solution are defined, an initial plan should be devised. This can look like jotting down ideas, or lines of code to get started. This is to brainstorm and explore the different ways the change can be executed. We want to show the tangibility of our proposed solution, and how it works. It also leaves room for trial and error, without consequence, and with that, helps efficiency. Overall, this is a preparatory step that precedes any finalized decisions made. 
 
-## Software Design is digital decoration
+### A KISS Revision
+Once a feasible rough draft is obtained, cleaning and revision is then needed. This means following coding principles to refactor and simplify codes. For example, the acronym "KISS" exemplifies a clean coding principle that advocates for straightforward systems. Keeping it simple means prioritizing clarity, what is the goal with this code? It shouldn't be ambiguous or hard to understand. Readability, is the code easy to follow? It should be simple enough to navigate through, engage with, and easily see errors. Maintainability, is this practical? Can this code be easily updated and revised if need be? Thus, the KISS rule is imperative to follow.
 
+### Final Product 
+Once we've ensured the code follows principles which covers simplicity, cleanliness, clear, readable, and maintainable, we can get to a point where we can deploy, publish, or make usable to others for testing and evaluation. Before then, it has to have been tested and proven on your end to make sure that the code is in fact soling the problem at hand, and is not over-engineered. 
 
-## Personal Utilization
+## My personal Experience
+As I've laid out the concept of design patterns and how to implement them, I have had my own feats with identifying problems and coding practices that highlight simplicity. Working on what could be a large scale web application has tested the limits of my own capabilities. The hardest part has been revealing where errors are coming from on the account of the multitude of updates and interactions from others besides myself. We faced problems with things as simple as user authorization, which we all had different suspected ideas about. This resulted in not being able to progress forward with the rest of the project milestones. Eventually, we realized that credentials were hard coded into the system, instead of allowing them to be individualized. Initially, hard coding this seemed simple at the time due to needing to test the efficiency of the system, yet it caused problems later down the line in development. Sufficed to say, since we caught and fixed the issue early into revision and way before finalizing our site, we are able to confidently say that we have an application that is clear, readable, reusable, and has the ability to scale beyond what it is now. 
+
+<div style="text-align:center;"> <img src="pictures/home.png" alt="Trial Project Page" style="width:600px;"> </div>
+
+[View the HTML version](Reflect-On-Design.html)
