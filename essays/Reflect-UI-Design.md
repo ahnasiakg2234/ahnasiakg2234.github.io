@@ -4,7 +4,7 @@ type: essay
 title: "The UI Experience"
 # All dates must be YYYY-MM-DD format!
 date: 2026-02-25
-published: true
+published: false
 labels:
   -  A Reflection on Basic UI Design
 ---
