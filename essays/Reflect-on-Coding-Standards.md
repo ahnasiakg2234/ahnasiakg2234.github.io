@@ -4,7 +4,7 @@ type: essay
 title: "An Egregious Tool"
 # All dates must be YYYY-MM-DD format!
 date: 2026-02-11
-published: true
+published: false
 labels:
   -  A Reflection on Coding Standards
 ---
