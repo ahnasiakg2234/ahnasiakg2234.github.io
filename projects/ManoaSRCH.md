@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/pictures/SRCH.png
+image: ../img/pictures/src.jpg
 title: "Manoa SRCH"
 date: 2026-05-06
 published: true
