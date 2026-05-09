@@ -11,6 +11,7 @@ labels:
   - Visual Studio Code
 summary: "I developed a basic program in python that uses a closed formula to create a sequence, determine truth values, and convert decimal values to binary. This is a useful program because it shortens the amount of math by hand."
 ---
+<div style="text-align:center;"> <img src="../img/pictures/discrete.png" alt="Essay image" style="width:600px;"> </div>
 ## What does this program do and why is it important?
 This program takes a closed formula with "n" elements which is stored in a set. The program also takes a value "m" in which if the domain of "X" is the first "n" elements of a sequence and "m" is another value, both of the quantifiers must be defined. 
 
