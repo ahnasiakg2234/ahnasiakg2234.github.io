@@ -4,7 +4,7 @@ type: essay
 title: "Individual Effort Estimation and Tracking"
 # All dates must be YYYY-MM-DD format!
 date: 2026-05-03
-published: true
+published: false
 labels:
   -  IDPM Effort Estimation and Tracking
 ---
