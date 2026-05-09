@@ -9,9 +9,11 @@ labels:
   -  Reflection on Software Engineering 
 ---
 # The Domino Effect
+<div style="text-align:center;"> <img src="../img/pictures/dominos.png" alt="Essay image" style="width:600px;"> </div>
+
 
 ## Dominos 
-Typically, you may play dominos with a friend, a foe, an opponent nonetheless. Each Domino representing an action, which may lead to a winning or losing result by the end. Every tile placed from the start until the very finish, makes a difference, whether minute or significant. Through a wide range of concepts, from functional programming to coding Standards, to ethics, this course has been quite reminiscent to that concept, and let me explain to you how.
+Typically, you may play dominos with a friend or a foe, but an opponent nonetheless. Each Domino representing an action, which may lead to a winning or losing result by the end. Every tile placed from the start until the very finish, makes a difference, whether minute or significant. Through a wide range of concepts, from functional programming to coding Standards, to ethics, this course has been quite reminiscent to that concept, and let me explain to you how.
 
 ## The set up
 At the start of this course, I created 3 smart goals that I intended to use as a guide for how I would retain the information, perform well on exercises, and ultimately be a standout. SMART goals that follow a specific structure to ensure a clear, measurable, and achievable goal. Each SMART goal must be specific, measurable, attainable, relevant, and timely. Those five constraints are supposed to be helpful to ones improvement towards success. My three goals were as follows: 
@@ -103,3 +105,5 @@ Ethics is considered a non-negotiable concern in software development, as its us
 What I really learned by putting these skills to use was beyond coding practices and functional programming methods. I gained real transferrable skills and a new perspective on the industry. I learned how to leverage methods, tools, and functions across many different areas. The great thing about concepts like ethics, function programming, and standard coding practices, is that it is not exclusive to Software Engineering. Any and Every industry encounters situations where a person with knowledge of these concepts is extremely important to the healthy functioning of a program, a system, etc. 
 
 Throughout this course, I also learned what I will accept, how I plan to be successful, and being comfortable with the unknown, etc. I realized I would not be willing to accept a role or position with duties that do not align with not only my morals and values, but that do not follow standard practices. I absolutely believe in growth and expansion, and introducing new or different ideas, but there is a way to do so without sabotaging your own integrity, and the integrity of the company or industry. I also understand now that creating SMART goals is not so that I perfectly execute everything, but to make an effort above all. Trying and failing is always better than never trying at all. Lastly, I learned how to be comfortable with the unknown. I do not know everything, but I am always willing to learn, and that doesn't make me less valuable than the person next to me, it makes me inquisitive. That means I will always resort to being a student, continuously redefining my growth as a person and a professional, stimulating my brain for innovation, and strengthening problem solving skills. 
+
+[View the HTML version](Software-Engineering-Reflection.html)
