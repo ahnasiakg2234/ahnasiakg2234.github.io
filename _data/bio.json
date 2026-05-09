@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Ahnasia",
+    "name": "Ahnasia Goulbourne",
     "label": "Student",
     "picture": "https://github.com/ahnasiakg2234.png",
     "email": "ahnasia04@gmail.com",
     "phone": "732-215-2828",
     "website": "https://ahnasiakg2234.github.io",
-    "summary": "I am studying for a B.S. in Data Science in the College of Science and Mathematics at Montclair State University. I expect to graduate in Fall 2026.",
+    "summary": "I am currently studying Data Science with a Mathematics Minor in the College of Science and Mathematics at Montclair State University. I expect to graduate with my Bachelor of Science in the Fall of 2026. My future aspirations include integrating data science and public issues to address ethical disparities. From finance to healthcare, I aim to create and contribute to solutions that make even a small impact.",
     "location": {
       "address": "",
-      "postalCode": "08865",
-      "city": "Phillipsburg",
+      "postalCode": "07112",
+      "city": "Newark",
       "countryCode": "USA",
       "region": "New Jersey"
     },
@@ -44,11 +44,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": ["Python", "R"]
+      "keywords": ["Python", "R", "SQL" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": ["MacOS", "Git/GitHub", "iOS", "Microsoft Office", "Visual Studio Code", "JetBrains Toolbox"]
+      "keywords": ["MacOS", "Git", "Microsoft Office", "Visual Studio Code", "JetBrains Toolbox", "Jupyter", "Google Colab", "Tableau", "PowerBI"]
     }
   ],
 
