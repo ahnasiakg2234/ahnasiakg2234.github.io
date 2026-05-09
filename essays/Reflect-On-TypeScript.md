@@ -10,7 +10,7 @@ labels:
 ---
 [View the HTML version](Reflecting-On-TypeScript.html)
 
-<div style="text-align:center;"> <img src="pills.jpg" alt="Essay image" style="width:600px;"> </div>
+<div style="text-align:center;"> <img src="img/pictures/pills.jpg" alt="Essay image" style="width:600px;"> </div>
 
 #### The Pill:
   *“Excuses are used as tools of the incompetent and are used to build monuments of absolutely nothing.”- An adaptation of Vernon Brundage Jr.'s original quote*

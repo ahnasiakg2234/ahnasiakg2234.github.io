@@ -13,7 +13,7 @@ labels:
 ## Visualize 
 If you have ever made and/or used a template for any type of business project or personal venture, then you already have an idea of the fundamentals of design patterns. Templates are pieces of documentation that act as a structural foundation to guide the implementation of new and similar pieces of work. The same way architectural blueprints follow a baseline to keep a common standard, while allowing room for agency, the same way templates are applied to different works with similar objectives. Typically, these types of pre-formatted designs are set in place to essentially streamline development by increasing efficiency, consistency, and reducing foot work. We can see examples of this in 
 systems like MS Word, Canva, and Capcut, to name a few. While each platform represents a different sector of guides, from documents, to presentations, to videos, they all consider the same benefits. These examples reflect the underlying framework of design patterns.
-<div style="text-align:center;"> <img src="pictures/templates.png" alt="Example Template" style="width:600px;"> </div>
+<div style="text-align:center;"> <img src="img/pictures/templates.png" alt="Example Template" style="width:600px;"> </div>
 
 ### Identify
 The first step in applying design patterns lies in the problem itself. While we've come to understand that the use of templates or blueprints aims to introduce a common standardized structure, we must first realize the specific issue requiring a solution. 
