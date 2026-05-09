@@ -5,7 +5,7 @@ image: img/pictures/trivia.jpg
 
 title: "Thoughtful Trivia"
 date: 2025-05-08
-published: true
+published: false
 labels:
   - Fun Technology
   - Python 
