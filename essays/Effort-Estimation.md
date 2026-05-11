@@ -10,6 +10,8 @@ labels:
 ---
 # IDPM Effort Estimation and Tracking
 
+   <div style="text-align:center;"> <img src="../img/pictures/allUsersHome.png" alt="Manoa SRCH" style="width:600px;"> </div>
+
 ## Estimating Estimates
 
 ### How did I make these estimates?
