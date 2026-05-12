@@ -47,21 +47,21 @@ Quality assurance - Used AI to fix the ESLint Errors that confused me i.e. " Typ
 
 Other uses in ICS 314 not listed - I did not use Ai for anything other than what is listed here. While I know the use of AI was permitted with adequate documentation, I vowed to keep the integrity of my work as much as possible. 
 
-# III. Impact on Learning and Understanding:
+## III. Impact on Learning and Understanding:
 Learning alongside AI has been rewarding, yet poses real challenges. As mentioned before, I feel like relying on AI to "take the wheel" at any minor inconvenience stunted my learning in a way. Yes, I learned how to thoughtfully prompt AI for the answers I needed, but did I actually learn the concepts discussed in class? I continue to question myself on this, but I intend to continue practicing the methods taught so that I don't lose the ability to think critically and not be handicapped by depending on an artificial brain. 
 
-# IV. Practical Applications:
+## IV. Practical Applications:
 AI is used in military warfare as weapons, in law enforcement to predict multi-offenders, and even in healthcare to discover new treatments. Effective is an overstatement as integrating AI also introduces implicit bias to these industries. Machines are becoming autonomous, they are misidentifying, and hallucinating. 
 
-# V. Challenges and Opportunities:
+## V. Challenges and Opportunities:
 Some challenges I've had with AI is that it takes a while to get the type of result I intend for. Asking for A may give me C, and so it takes a lot longer especially on timed assignments if I am stuck on a specific part. 
 
-# VI. Comparative Analysis:
+## VI. Comparative Analysis:
 Traditional teaching methods, while not perfect, I believe demanded a lot more discipline from students. AI-enhanced approaches, in my opinion, take away key parts of learning like problem solving and critical analysis, doing actual research. I feel like this is especially prevalent in software engineering where students of the craft may not actually be retaining anything when AI is at their disposal. Especially with how quickly AI provides feedback, I believe collective engagement has also decreases, speaking for myself as well. Now it is normal to lack the patience of traditional learning and proving practical skill because of AI.
 
-# VII. Future Considerations:
+## VII. Future Considerations:
 I honestly feel like we are already in the future stages of AI in software engineering education. I think being permitted to using it on graded assignments is large indicator of that so far. I think any method has its drawbacks, but relying on AI in programming development is the future we're witnessing now. I think it may weed out the experienced versus the posers, but since it is already implemented in the tech industry with many improvements, I wouldn't count them out. I think continuous use of AI in software engineering may incur limitations. I think that students will seem like they're performing at a higher level than they are in reality, which is not a true testament to learning the concepts, and I feel that that should be more considered.
 
-# VIII. Conclusion:
+## VIII. Conclusion:
 Overall, I feel that using AI in this course has had its pros and cons. It is definitely a useful tool for learning when used mindfully. I think that misusing it does more harm than good for yourself really.
 
