@@ -57,16 +57,11 @@ AI is used in military warfare as weapons, in law enforcement to predict multi-o
 Some challenges I've had with AI is that it takes a while to get the type of result I intend for. Asking for A may give me C, and so it takes a lot longer especially on timed assignments if I am stuck on a specific part. 
 
 # VI. Comparative Analysis:
-Traditional teaching methods, while not perfect, I believe demanded a lot more discipline from students.
-Provide a comparative analysis between traditional teaching methods and AI-enhanced approaches in the context of software engineering education. Consider aspects like engagement, knowledge retention, and practical skill development.
+Traditional teaching methods, while not perfect, I believe demanded a lot more discipline from students. AI-enhanced approaches, in my opinion, take away key parts of learning like problem solving and critical analysis, doing actual research. I feel like this is especially prevalent in software engineering where students of the craft may not actually be retaining anything when AI is at their disposal. Especially with how quickly AI provides feedback, I believe collective engagement has also decreases, speaking for myself as well. Now it is normal to lack the patience of traditional learning and proving practical skill because of AI.
 
 # VII. Future Considerations:
-Discuss your thoughts on the future role of AI in software engineering education. Consider potential advancements, challenges, and areas for improvement.
+I honestly feel like we are already in the future stages of AI in software engineering education. I think being permitted to using it on graded assignments is large indicator of that so far. I think any method has its drawbacks, but relying on AI in programming development is the future we're witnessing now. I think it may weed out the experienced versus the posers, but since it is already implemented in the tech industry with many improvements, I wouldn't count them out. I think continuous use of AI in software engineering may incur limitations. I think that students will seem like they're performing at a higher level than they are in reality, which is not a true testament to learning the concepts, and I feel that that should be more considered.
 
 # VIII. Conclusion:
-Summarize your reflections and insights regarding the use of AI in the Software Engineering course. Conclude with any recommendations or suggestions for optimizing the integration of AI in future courses.
+Overall, I feel that using AI in this course has had its pros and cons. It is definitely a useful tool for learning when used mindfully. I think that misusing it does more harm than good for yourself really.
 
-
-# references
-https://news.harvard.edu/gazette/story/2025/11/is-ai-dulling-our-minds/
-https://www.bbc.com/future/article/20260505-how-to-use-ai-without-turning-your-brain-to-mush
