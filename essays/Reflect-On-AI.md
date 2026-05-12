@@ -18,40 +18,40 @@ Presently, AI is recognized as a tool over-utilized in schools, leading to brain
 
 ## II. Personal Experience with AI:
 
-Experience WODs e.g. E18 - likely unneeded due to provided demos and thorough explanations, Mainly used when actual software was crashing because of prisma, npm, etc. 
+**Experience WODs** - likely unneeded due to provided demos and thorough explanations, Mainly used when actual software was crashing because of prisma, npm, etc. During the digits Experience, all 6 parts, I ran into trouble with prisma, getting the same error every time. 
 -somewhat useful
 
-In-class Practice WODs - was able to take my time, and used past practices and experiences to guide my progress, taking advantage of peers and classmates to help my understanding. didn't use much
+**In-class Practice WODs** - was able to take my time, and used past practices and experiences to guide my progress, taking advantage of peers and classmates to help my understanding. didn't use much
 
-In-class WODs - Again, utilized past practices, experiences, to guide my progress, often turning to AI when absolutely stuck and unable to find answers from any documentation, assignments, etc. halfway useful
+**In-class WODs** - Again, utilized past practices, experiences, to guide my progress, often turning to AI when absolutely stuck and unable to find answers from any documentation, assignments, etc. halfway useful
 
-Essays- did not use AI for essays as I felt it may diminish the ingenuity of them. I wanted them to feel authentic and flow naturally. Not useful
+**Essays** - did not use AI for essays as I felt it may diminish the ingenuity of them. I wanted them to feel authentic and flow naturally. Not useful
 
-Final project - used the help of my teammates, and documentation to help guide me. Used AI to help refactor code for organization, as well as to implement something i didn't quite understand how to do, like pulling unmapped objectives to a separate forum. Useful 
+**Final project** - used the help of my teammates, and documentation to help guide me. Used AI to help refactor code for organization, as well as to implement something i didn't quite understand how to do, like pulling unmapped objectives to a separate forum. Useful 
 
-Learning a concept / tutorial - prompted ai to give me the foundations of something i.e. "how would i map an object to a page?" and was able to take the rest from there with the knowledge it gave, or asking "why isn't prisma working? I've done x, y,z already" Useful
+**Learning a concept / tutorial** - prompted ai to give me the foundations of something i.e. "how would i map an object to a page?" and was able to take the rest from there with the knowledge it gave, or asking "why isn't prisma working? I've done x, y,z already" Useful
 
-Answering a question in class or in Discord- I honestly have not answered any questions in class or on Discord, so I didn't use AI to do so. I knew my own struggles with AI giving "fake" information and I did not want to continue spreading a wrong answer to someone in need. 
+**Answering a question in class or in Discord** - I honestly have not answered any questions in class or on Discord, so I didn't use AI to do so. I knew my own struggles with AI giving "fake" information and I did not want to continue spreading a wrong answer to someone in need. 
 
-Asking or answering a smart-question- Did not ask or answer any smart-questions in either forum. A lot of the questions I did see were capable of being answered through reading assignment instructions, documentation, or even AI. 
+**Asking or answering a smart-question** - Did not ask or answer any smart-questions in either forum. A lot of the questions I did see were capable of being answered through reading assignment instructions, documentation, or even AI. 
 
-Coding example e.g. “give an example of using Underscore .pluck”- I would ask AI to give an example using the .map function to understand how to use it more complexly. Useful sometimes
+**Coding example** - I would ask AI to give an example using the .map function to understand how to use it more complexly. Useful sometimes
 
-Explaining code- I would often ask AI to explain code I wrote to make sure that it made sense, as I often doubted myself when it came to writing code that met specific requirements. Useful mostly 
+**Explaining code** - I would often ask AI to explain code I wrote to make sure that it made sense, as I often doubted myself when it came to writing code that met specific requirements. Useful mostly 
 
-Writing code - When writing code, I would occasionally prompt AI to debug or refactor it for more clarity, Or sometimes if I was doing something at the last minute, I would explain what I needed it to do, and then prompt it to generate a chunk of code for me. Work smarter not harder right? Useful sometimes
+**Writing code** - When writing code, I would occasionally prompt AI to debug or refactor it for more clarity, Or sometimes if I was doing something at the last minute, I would explain what I needed it to do, and then prompt it to generate a chunk of code for me. Work smarter not harder right? Useful sometimes
 
-Documenting code- If AI was used to write multiple lines of code, I used it to help me understand what exactly it does, so that I know how to explain it to others and for future use. Mostly documented code based on what I thought and would double check to make sure that it was correct.
+**Documenting code** - If AI was used to write multiple lines of code, I used it to help me understand what exactly it does, so that I know how to explain it to others and for future use. Mostly documented code based on what I thought and would double check to make sure that it was correct.
 
-Quality assurance - Used AI to fix the ESLint Errors that confused me i.e. " Type number cannot be assigned to type Any"
+**Quality assurance** - Used AI to fix the ESLint Errors that confused me i.e. " Type number cannot be assigned to type Any"
 
-Other uses in ICS 314 not listed - I did not use Ai for anything other than what is listed here. While I know the use of AI was permitted with adequate documentation, I vowed to keep the integrity of my work as much as possible. 
+**Other uses in ICS 314 not listed** - I did not use Ai for anything other than what is listed here. While I know the use of AI was permitted with adequate documentation, I vowed to keep the integrity of my work as much as possible. 
 
 ## III. Impact on Learning and Understanding:
 Learning alongside AI has been rewarding, yet poses real challenges. As mentioned before, I feel like relying on AI to "take the wheel" at any minor inconvenience stunted my learning in a way. Yes, I learned how to thoughtfully prompt AI for the answers I needed, but did I actually learn the concepts discussed in class? I continue to question myself on this, but I intend to continue practicing the methods taught so that I don't lose the ability to think critically and not be handicapped by depending on an artificial brain. 
 
 ## IV. Practical Applications:
-AI is used in military warfare as weapons, in law enforcement to predict multi-offenders, and even in healthcare to discover new treatments. Effective is an overstatement as integrating AI also introduces implicit bias to these industries. Machines are becoming autonomous, they are misidentifying, and hallucinating. 
+AI is used in military warfare as weapons, in law enforcement to predict multi-offenders, and even in healthcare to discover new treatments. Effective is an overstatement as integrating AI also introduces implicit bias to these industries. Machines are becoming autonomous, they are misidentifying, and hallucinating. There is still room for improvement with the use of AI tools in public serving entities, but they are showing slight promise. 
 
 ## V. Challenges and Opportunities:
 Some challenges I've had with AI is that it takes a while to get the type of result I intend for. Asking for A may give me C, and so it takes a lot longer especially on timed assignments if I am stuck on a specific part. 
@@ -63,5 +63,4 @@ Traditional teaching methods, while not perfect, I believe demanded a lot more d
 I honestly feel like we are already in the future stages of AI in software engineering education. I think being permitted to using it on graded assignments is large indicator of that so far. I think any method has its drawbacks, but relying on AI in programming development is the future we're witnessing now. I think it may weed out the experienced versus the posers, but since it is already implemented in the tech industry with many improvements, I wouldn't count them out. I think continuous use of AI in software engineering may incur limitations. I think that students will seem like they're performing at a higher level than they are in reality, which is not a true testament to learning the concepts, and I feel that that should be more considered.
 
 ## VIII. Conclusion:
-Overall, I feel that using AI in this course has had its pros and cons. It is definitely a useful tool for learning when used mindfully. I think that misusing it does more harm than good for yourself really.
-
+Overall, I feel that using AI in this course has had its pros and cons. It is definitely a useful tool for learning when used mindfully. I think that misusing it does more harm than good for yourself really, because personally, it was really difficult to find that sweet spot when prompting, especially during timed exercises. But when used in a way to enhance and optimize your own work, you are taking advantage of the resources provided to you, which is a good thing. Taking these tools to learn concepts deeper, ensure quality code, give examples, and help to complete assignments in general is where I found AI held leverage in this course. Today, there are several applications of AI brought to life by many vital industries including healthcare, law enforcement and military. And while many of these applications have their faults and needs for improvements, I think we've only hit the tip of the iceberg. Lastly, I am confident to have found a "friend" rather than a "foe" in AI, and I do see the value in using these tools to make learning concepts and applying them more efficient for now and in the future.
